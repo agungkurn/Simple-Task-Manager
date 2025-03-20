@@ -1,4 +1,4 @@
-# flutter_submission_1
+## Simple Task Manager
 
 This app is for final submission on Dicoding's
 course [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159)
