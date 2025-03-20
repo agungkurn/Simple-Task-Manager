@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_submission_1/create_task.dart';
 import 'package:flutter_submission_1/model/task.dart';
 import 'package:flutter_submission_1/model/task_operation.dart';
 import 'package:flutter_submission_1/model/task_status.dart';
-import 'package:flutter_submission_1/task_details.dart';
+import 'package:flutter_submission_1/widgets/create_task.dart';
+import 'package:flutter_submission_1/widgets/task_details.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

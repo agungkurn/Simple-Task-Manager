@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_submission_1/edit_task.dart';
 import 'package:flutter_submission_1/model/task_operation.dart';
 import 'package:flutter_submission_1/model/task_status.dart';
 import 'package:flutter_submission_1/shared/status_picker.dart';
+import 'package:flutter_submission_1/widgets/edit_task.dart';
 
-import 'model/task.dart';
+import '../model/task.dart';
 
 class TaskDetails extends StatefulWidget {
   final Task task;
